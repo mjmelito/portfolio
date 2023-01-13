@@ -1,0 +1,29 @@
+body {
+  background-color:rgb(223, 222, 210);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  background-color: rgb(53, 181, 126) ;
+  padding: 20px;
+  margin: 5px;
+}
+
+.projects {
+  box-sizing: border-box;
+  background-color: rgb(75, 74, 74);
+  padding: 20px;
+  margin: 5px;
+  color: white;
+  float: right;
+  width: 50%;
+}
+
+.about {
+  box-sizing: border-box;
+  background-color: rgb(195, 161, 88);
+  padding: 20px;
+  margin: 5px;
+  float: left;
+  width: 50%;
+}
