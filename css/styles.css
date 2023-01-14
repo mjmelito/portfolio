@@ -4,53 +4,94 @@ body {
 }
 
 .header {
+  box-sizing: border-box;
+  border-radius: 15px;
   background-color: rgb(13,31,45);
   color: rgb(250,225,223);
   padding: 20px;
-  margin-left: 1%;
-  margin-right: 1%;
+  margin-left: 2%;
+  margin-right: 2%;
   margin-top: 0%;
   margin-bottom: 1%;
-  height: 20vh;
+  height: 30vh;
   font-size: small;
 }
 
-#projects {
+.about {
   box-sizing: border-box;
+  border-radius: 15px;
+  background-color: rgb(228,195,173);
+  color: rgb(25, 25, 25);
+  padding: 20px;
+  margin-left: 2%;
+  margin-right: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  float: left;
+  width: 46%;
+}
+
+#headshot {
+  display: block;
+  border-radius: 15px;
+  width: 46vw;
+  float: right;
+  margin-left: 1%;
+  margin-right: 2%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.resume {
+  background-color: rgb(84, 106, 123);
+  color: rgb(250,225,223);
+  box-sizing: border-box;
+  border-radius: 15px;
+  padding: 20px;
+  margin-left: 2%;
+  margin-right: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  float: Left;
+  width: 44vw;
+}
+
+.projects {
+  box-sizing: border-box;
+  border-radius: 15px;
   background-color: rgb(158,163,176);
   color: rgb(25,25,25);
   padding: 20px;
   margin-left: 1%;
-  margin-right: 1%;
+  margin-right: 2%;
   margin-top: 1%;
   margin-bottom: 0%;
-  float: left;
-  width: 46%;
-  height: 105vh;
+  float: right;
+  width: 46vw;
 }
 
-#about {
+#contact {
   box-sizing: border-box;
+  border-radius: 15px;
+  background-color: rgb(13,31,45);
+  color:  rgb(250,225,223);
+  padding: 20px;
+  margin-left: 1%;
+  margin-right: 2%;
+  margin-top: 1%;
+  margin-bottom: 0%;
+  float: right;
+  width: 46vw;
+}
+
+#button {
   background-color: rgb(228,195,173);
-  color: rgb(25, 25, 25);
-  padding: 20px;
-  margin-left: 1%;
-  margin-right: 1%;
-  margin-top: 1%;
-  margin-bottom: 1%;
+  color: rgb(25,25,25);
+  padding: 10px;
+  border-radius: 15px;
   float: right;
-  width: 46%;
-}
-
-#resume {
-  box-sizing: border-box;
-  background-color: rgb(84, 106, 123);
-  color: rgb(250,225,223);
-  padding: 20px;
   margin-left: 1%;
-  margin-right: 1%;
+  margin-right: 2%;
   margin-top: 1%;
-  margin-bottom: 1%;
-  float: right;
-  width: 46%;
+  margin-bottom: 0%;
 }
