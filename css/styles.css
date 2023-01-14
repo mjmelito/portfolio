@@ -58,11 +58,14 @@ body {
 
 .indent {
   margin-left: 40px;
-  margin
 }
 
 .indenthalf {
-  margin-left: 20px;
+  margin-left:20px;
+}
+
+.position {
+  font-style: italic;
 }
 
 .projects {
