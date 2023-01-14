@@ -5,7 +5,7 @@ body {
 
 .header {
   box-sizing: border-box;
-  border-radius: 15px;
+  border-radius: 10px;
   background-color: rgb(13,31,45);
   color: rgb(250,225,223);
   padding: 20px;
@@ -19,7 +19,7 @@ body {
 
 .about {
   box-sizing: border-box;
-  border-radius: 15px;
+  border-radius: 10px;
   background-color: rgb(228,195,173);
   color: rgb(25, 25, 25);
   padding: 20px;
@@ -33,7 +33,7 @@ body {
 
 #headshot {
   display: block;
-  border-radius: 15px;
+  border-radius: 50px;
   width: 46vw;
   float: right;
   margin-left: 1%;
@@ -44,9 +44,9 @@ body {
 
 .resume {
   background-color: rgb(84, 106, 123);
-  color: rgb(250,225,223);
+  color: rgb(25,25,25);
   box-sizing: border-box;
-  border-radius: 15px;
+  border-radius: 10px;
   padding: 20px;
   margin-left: 2%;
   margin-right: 1%;
@@ -58,8 +58,8 @@ body {
 
 .projects {
   box-sizing: border-box;
-  border-radius: 15px;
-  background-color: rgb(158,163,176);
+  border-radius: 10px;
+  background-color: rgb(180,95,93);
   color: rgb(25,25,25);
   padding: 20px;
   margin-left: 1%;
@@ -72,14 +72,16 @@ body {
 
 #contact {
   box-sizing: border-box;
-  border-radius: 15px;
+  border-radius: 10px;
   background-color: rgb(13,31,45);
   color:  rgb(250,225,223);
   padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin-left: 1%;
   margin-right: 2%;
-  margin-top: 1%;
-  margin-bottom: 0%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   float: right;
   width: 46vw;
 }
@@ -88,10 +90,10 @@ body {
   background-color: rgb(228,195,173);
   color: rgb(25,25,25);
   padding: 10px;
-  border-radius: 15px;
+  border-radius: 10px;
   float: right;
   margin-left: 1%;
   margin-right: 2%;
   margin-top: 1%;
-  margin-bottom: 0%;
+  margin-bottom: 4%;
 }
