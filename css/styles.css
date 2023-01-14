@@ -43,7 +43,7 @@ body {
 }
 
 .resume {
-  background-color: rgb(84, 106, 123);
+  background-color: rgb(109, 133, 151);
   color: rgb(25,25,25);
   box-sizing: border-box;
   border-radius: 10px;
@@ -54,6 +54,15 @@ body {
   margin-bottom: 1%;
   float: Left;
   width: 44vw;
+}
+
+.indent {
+  margin-left: 40px;
+  margin
+}
+
+.indenthalf {
+  margin-left: 20px;
 }
 
 .projects {
@@ -97,3 +106,4 @@ body {
   margin-top: 1%;
   margin-bottom: 4%;
 }
+
