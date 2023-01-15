@@ -11,15 +11,13 @@
 
 ## Description
 
-
+This site serves as an online portfolio and resume for Epicodus student Matt Melito. It contains a bio, headshot, resume, email contact button, and portfolio linked to github pages.
 
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 

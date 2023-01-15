@@ -110,3 +110,18 @@ body {
   margin-bottom: 4%;
 }
 
+a:link {
+  color: rgb(13,31,45);
+}
+
+a:visited {
+  color: rgb(13,31,45);
+}
+
+a:hover {
+  color: rgb(250,225,223);
+}
+
+a:active {
+  color: blue;
+}
