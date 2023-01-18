@@ -15,7 +15,7 @@ This site serves as an online portfolio and resume for Epicodus student Matt Mel
 
 ## Setup/Installation Requirements
 
-* Toview this application, visit mjmelito.github.io/portfolio
+* To view this application, visit mjmelito.github.io/portfolio
 * OR
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
